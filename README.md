@@ -4,7 +4,9 @@ In the project, you can:
 
 ### 1)  Search for Any Movie, TV.Show or Anime 
 ![Screenshot_20221126_195804](https://user-images.githubusercontent.com/111651944/204093922-f183cbec-c131-4797-abd7-457a08d1b2aa.png)
+
 Shows you a List of Related Shows by Name
+
 ![image](https://user-images.githubusercontent.com/111651944/204093982-dbebcb48-d1da-4aae-9b3f-e4835acc6f6c.png)
 
 ### 2)  Get All Details about the the Show... 
