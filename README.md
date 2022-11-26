@@ -9,7 +9,7 @@ Shows you a List of Related Shows by Name
 
 ![image](https://user-images.githubusercontent.com/111651944/204093982-dbebcb48-d1da-4aae-9b3f-e4835acc6f6c.png)
 
-### 2)  Get All Details about the the Show... 
+### 2)  Get All Details the about the the Show... 
 
 ![image](https://user-images.githubusercontent.com/111651944/204094015-8c9fe7d7-a81a-45bf-8913-6b62a62d2c0b.png)
 
